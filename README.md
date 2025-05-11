@@ -8,7 +8,7 @@
 
 # Навыки
 ### Изучение инструментов
-Brup Suite
-Kali Linux
-Hydra
-Postman
+* Brup Suite
+* Kali Linux
+* Hydra
+* Postman
